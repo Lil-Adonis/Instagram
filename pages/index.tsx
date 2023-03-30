@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Header from '../components/Header'
+import Feed from '../components/Feed'
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       </Head>
      {/* Header   */}
      <Header />
+     <Feed/>
 
 
      {/* Feed  */}
