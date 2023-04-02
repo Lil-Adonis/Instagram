@@ -1,5 +1,7 @@
-import { DotsHorizontalIcon } from '@heroicons/react/outline'
+import { DotsHorizontalIcon, ChatIcon, HeartIcon, PaperAirplaneIcon, EmojiHappyIcon, BookmarkIcon } from '@heroicons/react/outline'
 import React from 'react'
+import {HeartIcon as heartIconFilled} from "@heroicons/react/outline"
+
 
 const Post = ({id,username,userImg,img,caption}) => {
   return (
@@ -14,6 +16,11 @@ const Post = ({id,username,userImg,img,caption}) => {
         <img src={img} className='object-cover w-full' alt=''/>
 
         {/* Button */}
+        <div>
+            <HeartIcon className='btn'/>
+            <ChatIcon className='btn'/>
+            <PaperAirplaneIcon className='btn'/>
+        </div>
 
         {/* caption */}
 
