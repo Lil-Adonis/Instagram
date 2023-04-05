@@ -16,11 +16,11 @@ const Header = () => {
       <div className="flex justify-between max-w-6xl mx-5 lg:mx-auto">
         {/* Left */}
         <div className="relative hidden lg:inline-grid   w-24 cursor-pointer">
-          <Image src="https://links.papareact.com/ocw" alt="logo" fill style={{objectFit:"contain"}}/>
+          <Image src="/amazon_PNG25.png" alt="logo" fill style={{objectFit:"contain"}}/>
         </div>
 
         <div className="relative flex-shrink-0 lg:hidden w-10 cursor-pointer">
-          <Image src="https://links.papareact.com/jjm" alt="logo" fill style={{objectFit:"contain"}}/>
+          <Image src="/amazon_PNG25.png" alt="logo" fill style={{objectFit:"contain"}}/>
         </div>
 
         {/* Middle */}
@@ -48,7 +48,7 @@ const Header = () => {
         <UserGroupIcon className="navBtn"/>
         <HeartIcon className="navBtn"/>
 
-        <img src="https:/links.papareact.com/3ke" alt="profile pic" className="rounded-full w-10 h-10 cursor-pointer"/>
+        <img src="/amazon_PNG25.png" alt="profile pic" className="rounded-full w-10 h-10 cursor-pointer"/>
         </div>
       </div>
     </div>
