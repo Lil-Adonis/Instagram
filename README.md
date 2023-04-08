@@ -9,14 +9,7 @@ Instagram 2.0 with REACT.JS! (Next.js, NextAuth.js v4.17.0, Tailwind CSS, Fireba
   </p>
   
   
-<!-- Badges -->
 
-<a href="https://projects-seven-peach.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/Instagram-Clone.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/Instagram-Clone.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/Instagram-Clone)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/Instagram-Clone)
 
 <h4>
     <a href="https://projects-seven-peach.vercel.app">View Demo</a>
